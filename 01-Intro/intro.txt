@@ -1,0 +1,24 @@
+What is pandas ?
+
+In computer programming, pandas is a software library written for the Python programming language for data manipulation and analysis. In particular,it offers data
+structures and operations for manipulating numerical tables and time series. It is free software released under the three-clause BSD license.The name is derived 
+from the term "panel data", an econometrics term for data sets that include observations over multiple time periods for the same individuals.Itsname is a play on
+the phrase "Python data analysis" itselfpandas is a popular Python-based data analysis toolkit which can be imported using import pandas as pd.It presents a diverse
+range of utilities,ranging from parsing multiple file formats to converting an entire data table into a NumPy matrix array. This makes pandas a trusted ally in data 
+science and machine learning.
+
+pandas is a popular Python-based data analysis toolkit which can be imported using import pandas as pd. It presents a diverse range of utilities, ranging from parsing multiple file formats to converting an entire data table into a NumPy matrix array. This makes pandas a trusted ally in data science and machine learning.
+Similar to NumPy, pandas deals primarily with data in 1-D and 2-D arrays; however, pandas handles the two differently.
+
+Library features:
+    DataFrame object for data manipulation with integrated indexing.
+    Tools for reading and writing data between in-memory data structures and different file formats.
+    Data alignment and integrated handling of missing data.
+    Reshaping and pivoting of data sets.
+    Label-based slicing, fancy indexing, and subsetting of large data sets.
+    Data structure column insertion and deletion.
+    Group by engine allowing split-apply-combine operations on data sets.
+    Data set merging and joining.
+    Hierarchical axis indexing to work with high-dimensional data in a lower-dimensional data structure.
+    Time series-functionality: Date range generation[5] and frequency conversion, moving window statistics, moving window linear regressions, date shifting and lagging.
+    Provides data filtration.
